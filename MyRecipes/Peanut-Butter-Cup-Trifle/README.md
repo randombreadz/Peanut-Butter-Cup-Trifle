@@ -1,0 +1,1 @@
+A simple dessert with only 5 ingredients. The total time of this recipe is about 20 minutes.
